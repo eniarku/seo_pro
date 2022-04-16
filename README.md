@@ -5,5 +5,4 @@ Free extension to create clean URLs (also sometimes referred to as RESTful URLs,
 Install ocmod.zip and update modification cache.
 
 # Compatible
-Opencart 2.3
-OpenCart 3.0
+Opencart 2.3, OpenCart 3.0
