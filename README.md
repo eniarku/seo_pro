@@ -1,4 +1,4 @@
-# SEO Pro for OpenCart
+# Free SEO Pro for OpenCart
 Free extension for create clean URLs (also sometimes referred to as RESTful URLs, user-friendly URLs, pretty URLs or search engine-friendly URLs)
 
 # Using
